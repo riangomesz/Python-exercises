@@ -1,5 +1,5 @@
-#Programa que recebe a idade, o nome, a altura, o peso de um usuário. E se for compatível como os requisitos de servir ao exército, fala a pessoa se está apta para
-# servir, se não diz que não está apto
+#Programa que recebe a idade, o nome, a altura, o peso de um usuário. E se for compatível como os requisitos de servir ao exército, fala á pessoa se a mesma, está apta 
+# para servir, se não diz que não está apto
 
 idade = int(input())
 nome = str(input())
