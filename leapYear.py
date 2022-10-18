@@ -1,3 +1,9 @@
+# Program feito em inglês
+# Código que recebe um ano e um mês informado pelo usuário
+# Respode ao utilizadador se o ano informado é Bissexto 
+# Diz também quantos dias o mês informado possui
+
+
 year = int(input("Enter a year: "))
 mounth = int(input("Enter a mounth 1-12:"))
 
