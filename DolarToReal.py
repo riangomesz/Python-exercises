@@ -1,3 +1,7 @@
+# Programa que recebe um valor em USD e em BRL 
+# Depois ele converte baseando-se na cotação do dia 19/10/2022
+
+
 print("Conversor de Dólar para Real")
 
 
