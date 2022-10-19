@@ -1,3 +1,7 @@
+# Código que recebe a temperatura em Celsius e Fahrenheit
+# Depois converte Fahrenheit para Celsius e vice e versa 
+
+
 print("Celsius to Fahrenheit")
 
 celsius = float(input("\nEnter the temperature in Celsius: "))
