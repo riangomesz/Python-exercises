@@ -1,3 +1,7 @@
+# Programa que recebe três lados informados pelo usuário 
+# E diz o tipo de Triângulo formado, baseando-se nos dados informados
+
+
 print("Tipos de Triângulos")
 
 l1 = int(input("\nDigite o primeiro lado: "))
