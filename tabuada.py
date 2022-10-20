@@ -1,3 +1,7 @@
+# Programa que recebe um número digitado pelo usuário 
+# E informa a tabuada de 1 até 10 do número informado 
+
+
 num = int(input("Digite o Número que você quer fazer a tabuada: "))
 
 print ("{} x {} = {} ".format(num, 1, num*1))
