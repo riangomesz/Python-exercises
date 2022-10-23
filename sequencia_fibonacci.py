@@ -1,3 +1,6 @@
+# A série de Fibonacci é uma sequência de números, cujos dois primeiros são 0 e 1
+
+
 def fib(n):
     if n < 1:
         return None
