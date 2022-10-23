@@ -1,5 +1,5 @@
 # A série de Fibonacci é uma sequência de números, cujos dois primeiros são 0 e 1
-
+# O termo seguinte da sequência é obtido somando
 
 def fib(n):
     if n < 1:
