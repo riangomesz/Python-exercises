@@ -1,3 +1,6 @@
+# Programa que recebe o nome do eleitor, informa as informações dos candidatos e recebe o voto da pessoa
+
+
 print("Eleições Brasil 2022")
 print("Digite \n - Para votar no Bolsonaro do Partido Liberal aperte 22\n - Para votar no Lula do Partido dos Trabalhadores aperte 13 \n - Aperte 0, caso queire votar Nulo")
 
